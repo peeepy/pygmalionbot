@@ -4,5 +4,5 @@
 
 ### Requirements:
 1. Python (https://www.python.org/downloads/)
-2. A Discord bot (https://discord.com/developers/applications)
+2. A Discord bot (https://discord.com/developers/applications) and its **bot token** (navigate to the Bot tab, create a Bot application, and retrieve its token)
 3. **For Horde**, a Horde API key (https://koboldai.net/register).
